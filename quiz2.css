@@ -1,4 +1,4 @@
-*{
+body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 12px;
 }
@@ -14,7 +14,7 @@ h1 {
   padding: 10px 20px;
 }
 
-#dynamic {
+.dynamic {
   display: none;
 }
 
